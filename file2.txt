@@ -1,1 +1,3 @@
 a to jest plik numer dwafjskjskfsjk
+
+destrukcja
