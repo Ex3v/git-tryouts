@@ -1,2 +1,5 @@
 Just some stuff to test out. Ignore this.
-dupa duaps
+dupa dupa napisane poprawnie
+
+
+zmiana 1

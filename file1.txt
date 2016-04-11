@@ -1,1 +1,3 @@
 To jest plik numer jedenheheski
+
+zmiana2
